@@ -13,4 +13,4 @@ Others:
 Metis-5.1.0([here](http://glaros.dtc.umn.edu/gkhome/metis/metis/download) to download) 
 
 Maybe you want to see:
-[How to install Metis in win10?(chinese)](https://github.com/Pofatoezil/Keras-Cluster-GCN-Implement/blob/master/how%20to%20install%20metis%20in%20win10.md)
+[How to install Metis in win10?(chinese)](metis%20installation.md)
