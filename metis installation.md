@@ -116,7 +116,7 @@ you used the command line or whatever you choose if using the CMake
 GUI.)
 
 
-##  安裝步驟Install Step: 
+##  安裝步驟Installation Steps: 
 
 1. 設定環境變數:(使用管理員權限執行以下command)  
 
