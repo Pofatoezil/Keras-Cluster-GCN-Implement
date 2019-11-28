@@ -26,13 +26,8 @@ Python 3.7
 Visual Studio 安裝的時候記得勾選 "使用C++的桌面開發"(desktop application development using c++)
 
 
-```python
-%%html
-<img src="vs2019.png">
-```
 
-
-<img src="vs2019.png">
+<img src="vs2019.PNG">
 
 
 
