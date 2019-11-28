@@ -135,7 +135,7 @@ GUI.)
     找到Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSBuild\  
     我們要修改兩個變數(variable)
     1) .\4.0\ 中的變數MSBuildOverrideTasksPath
-    2) .\ToolVersion\4.0\ 中的變數 MSBuildToolPath
+    2) .\ToolVersion\4.0\ 中的變數 MSBuildToolPath  
     將兩個變數修改為: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\15.0\Bin  
     如果是VS 2017,就將路徑中的2019改為2017 
 
