@@ -7,7 +7,7 @@ Python pkgs:
 3.networkx 2.4  
 4.numpy 1.16.5  
 5.scipy 1.3.1  
-6.metis 0.2a4  
+6.metis 0.2a4  (Python Wrapper of Metis)
 
 Note: 
 In this implement,tensorflow 1.13 is not support sparse matrix as input. 
