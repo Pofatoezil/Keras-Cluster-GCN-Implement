@@ -16,5 +16,5 @@ But it works in tensorflow 1.9 & keras 2.2.4 in my another environment.
 Others:  
 Metis-5.1.0([here](http://glaros.dtc.umn.edu/gkhome/metis/metis/download) to download) 
 
-Maybe you want to see:
+Metis installation in windows:
 [How to install Metis in win10?(chinese)](metis%20installation.md)
