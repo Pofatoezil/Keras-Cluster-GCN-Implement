@@ -10,7 +10,7 @@ Python pkgs:
 6.metis 0.2a4  (Python Wrapper of Metis)
 
 Note: 
-In this implement,tensorflow 1.13 is not support sparse matrix as input.   
+In this implement,sparse matrix is not supported as input in tensorflow 1.13.   
 But it works in tensorflow 1.9 & keras 2.2.4 in my another environment.
 
 Others:  
